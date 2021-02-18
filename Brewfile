@@ -11,6 +11,7 @@ tap "homebrew/core"
 # Tools
 brew "tree" # Display directories as trees (with optional color/HTML output)
 brew "wget" # Internet file retriever
+brew "zsh-syntax-highlighting"
 
 # Git
 brew "git" # Distributed revision control system
