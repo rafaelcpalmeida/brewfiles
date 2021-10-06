@@ -14,6 +14,7 @@ brew "shellcheck"
 brew "wget" # Internet file retriever
 brew "zsh-syntax-highlighting"
 brew "podman"
+brew "multipass"
 
 # Git
 brew "git" # Distributed revision control system
