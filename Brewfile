@@ -17,6 +17,7 @@ brew "docker"
 brew "podman"
 brew "multipass"
 brew "kubectx"
+brew "nano"
 
 # Git
 brew "git" # Distributed revision control system
