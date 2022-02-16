@@ -19,6 +19,7 @@ brew "multipass"
 brew "kubectx"
 brew "nano"
 brew "terraform"
+brew "sops"
 
 # Git
 brew "git" # Distributed revision control system
