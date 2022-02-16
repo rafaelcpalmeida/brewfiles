@@ -18,6 +18,7 @@ brew "podman"
 brew "multipass"
 brew "kubectx"
 brew "nano"
+brew "terraform"
 
 # Git
 brew "git" # Distributed revision control system
