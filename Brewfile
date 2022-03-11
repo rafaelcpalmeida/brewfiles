@@ -20,6 +20,9 @@ brew "kubectx"
 brew "nano"
 brew "terraform"
 brew "sops"
+brew "inframap"
+brew "graphviz"
+
 
 # Git
 brew "git" # Distributed revision control system
