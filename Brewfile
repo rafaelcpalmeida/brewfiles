@@ -13,8 +13,7 @@ brew "tree" # Display directories as trees (with optional color/HTML output)
 brew "shellcheck"
 brew "wget" # Internet file retriever
 brew "zsh-syntax-highlighting"
-brew "docker"
-brew "podman"
+brew "podman-desktop"
 brew "multipass"
 brew "kubectx"
 brew "nano"
