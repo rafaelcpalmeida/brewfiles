@@ -5,6 +5,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/core"
+tap "cantino/mcfly"
 
 ### FORMULAS
 
@@ -19,6 +20,7 @@ brew "kubectx"
 brew "nano"
 brew "terraform"
 brew "sops"
+brew "cantino/mcfly/mcfly"
 
 
 # Git
