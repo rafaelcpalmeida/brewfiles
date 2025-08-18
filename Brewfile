@@ -21,6 +21,7 @@ brew "sops"
 brew "cantino/mcfly/mcfly"
 brew "kube-ps1"
 brew "1password-cli"
+brew "font-meslo-lg-nerd-font"
 
 
 # Git
