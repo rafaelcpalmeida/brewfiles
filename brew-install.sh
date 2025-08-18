@@ -32,3 +32,7 @@ brew bundle install --file=Brewfile-cask --verbose
 
 # Remove outdated versions from the cellar
 brew cleanup
+
+# Copy Ghostty configs to the proper place
+mkdir -p ~/.config/ghostty
+cp -r ghostty-config ~/.config/ghostty/config
