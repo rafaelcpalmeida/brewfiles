@@ -5,9 +5,9 @@ cask "font-fira-code"
 
 # Dev
 cask "coderunner"
-cask "iterm2"
-cask "lens"
+cask "ghostty"
 cask "visual-studio-code"
+
 
 # Apps
 cask "1password"
