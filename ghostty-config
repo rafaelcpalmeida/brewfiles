@@ -21,7 +21,8 @@ cursor-style = bar
 cursor-style-blink = true
 
 # ========= Appearance =========
-background-opacity = 1
+background-opacity = 0.80
+background-blur = 60
 theme = Apple System Colors
 
 # ========= Clipboard & Mouse =========
