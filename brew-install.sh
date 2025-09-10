@@ -35,4 +35,9 @@ brew cleanup
 
 # Copy Ghostty configs to the proper place
 mkdir -p ~/.config/ghostty
+mkdir -p ~/.config/ghostty/themes
+
+curl -Lo /tmp/themes.zip https://github.com/Kirlovon/monokai-ghostty/releases/download/v1.0.0/themes.zip
+unzip /tmp/themes.zip -d ~/.config/ghostty/themes
+
 cp -r ghostty-config ~/.config/ghostty/config
