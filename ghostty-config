@@ -23,7 +23,7 @@ cursor-style-blink = true
 # ========= Appearance =========
 background-opacity = 0.80
 background-blur = 60
-theme = Apple System Colors
+theme = Monokai Pro
 
 # ========= Clipboard & Mouse =========
 # Copy to the system clipboard on selection
