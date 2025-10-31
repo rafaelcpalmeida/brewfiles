@@ -13,6 +13,7 @@ brew "wget" # Internet file retriever
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 brew "podman"
+brew "docker-compose"
 brew "multipass"
 brew "kubectx"
 brew "nano"
