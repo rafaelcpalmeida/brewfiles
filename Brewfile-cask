@@ -7,7 +7,7 @@ cask "font-fira-code"
 cask "coderunner"
 cask "ghostty"
 cask "visual-studio-code"
-
+cask "podman-desktop"
 
 # Apps
 cask "1password"
