@@ -12,7 +12,7 @@ brew "shellcheck"
 brew "wget" # Internet file retriever
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
-brew "podman-desktop"
+brew "podman"
 brew "multipass"
 brew "kubectx"
 brew "nano"
