@@ -3,6 +3,7 @@ cask_args appdir: "/Applications"
 ### TAPS
 tap "homebrew/bundle"
 tap "cantino/mcfly"
+tap "slp/krunkit"
 
 ### FORMULAS
 
@@ -14,6 +15,7 @@ brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 brew "podman"
 brew "docker-compose"
+brew "krunkit"
 brew "multipass"
 brew "kubectx"
 brew "nano"
