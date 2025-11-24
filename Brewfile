@@ -1,9 +1,8 @@
 cask_args appdir: "/Applications"
 
 ### TAPS
-tap "homebrew/bundle"
-tap "cantino/mcfly"
 tap "slp/krunkit"
+tap "hashicorp/tap"
 
 ### FORMULAS
 
@@ -19,9 +18,9 @@ brew "krunkit"
 brew "multipass"
 brew "kubectx"
 brew "nano"
-brew "terraform"
+brew "hashicorp/tap/terraform"
 brew "sops"
-brew "cantino/mcfly/mcfly"
+brew "mcfly"
 brew "kube-ps1"
 brew "1password-cli"
 brew "font-meslo-lg-nerd-font"
