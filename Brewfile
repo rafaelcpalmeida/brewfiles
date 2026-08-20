@@ -25,7 +25,6 @@ brew "kube-ps1"
 brew "1password-cli"
 brew "font-meslo-lg-nerd-font"
 
-
 # Git
 brew "git" # Distributed revision control system
 brew "git-extras" # Small git utilities
@@ -33,3 +32,7 @@ brew "git-lfs" # Git extension for versioning large files
 
 # Languages
 brew "python", link: true
+
+# Miscellaneous
+
+brew "bjarneo/cliamp/cliamp" # Winamp-like music player for the terminal
