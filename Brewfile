@@ -29,6 +29,7 @@ brew "font-meslo-lg-nerd-font"
 brew "git" # Distributed revision control system
 brew "git-extras" # Small git utilities
 brew "git-lfs" # Git extension for versioning large files
+brew "gnupg" # GNU Privacy Guard (commit signing)
 brew "pinentry-mac" # GUI passphrase prompt for gpg-agent (commit signing)
 
 # Languages
