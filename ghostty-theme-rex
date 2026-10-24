@@ -1,0 +1,20 @@
+# Rex default colors, read from a Rex terminal with OSC 4/10/11/12.
+palette = 0=#1f2527
+palette = 1=#dd7a72
+palette = 2=#7cbfa0
+palette = 3=#d2b071
+palette = 4=#729fc0
+palette = 5=#a68fc0
+palette = 6=#66c2b5
+palette = 7=#a9b7b7
+palette = 8=#576466
+palette = 9=#ea948d
+palette = 10=#97d5b7
+palette = 11=#e3c78e
+palette = 12=#8fb8d4
+palette = 13=#bcaad4
+palette = 14=#86d9cc
+palette = 15=#e5eded
+background = #14181a
+foreground = #c8d3d3
+cursor-color = #7fd8c4

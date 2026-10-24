@@ -39,5 +39,7 @@ mkdir -p ~/.config/ghostty/themes
 
 curl -Lo /tmp/themes.zip https://github.com/Kirlovon/monokai-ghostty/releases/download/v1.0.0/themes.zip
 unzip /tmp/themes.zip -d ~/.config/ghostty/themes
+# Rex default colors, read from a Rex terminal (Superlogical)
+cp ghostty-theme-rex ~/.config/ghostty/themes/Rex
 
 cp -r ghostty-config ~/.config/ghostty/config
