@@ -5,7 +5,7 @@ font-family = "Fira Code"
 font-family = "Symbols Nerd Font Mono"
 # Base size (won't inherit zoom from other windows)
 font-size = 16
-font-feature = +calt,+liga,+clig,+dlig
+font-feature = +calt,+liga
 
 # ========= Layout / Density =========
 window-inherit-font-size = false
@@ -23,7 +23,9 @@ cursor-style-blink = true
 # ========= Appearance =========
 background-opacity = 0.80
 background-blur = 60
-theme = Monokai Pro
+#theme = Apple System Colors
+theme = Rex
+faint-opacity = 1
 
 # ========= Clipboard & Mouse =========
 # Copy to the system clipboard on selection
@@ -34,6 +36,9 @@ mouse-shift-capture = never
 # ========= macOS =========
 # Treat Option (left) as Alt/Meta for TUI shortcuts
 macos-option-as-alt = left
+# Allow notifications
+desktop-notifications = true
+notify-on-command-finish = unfocused
 
 # ========= Compatibility (SSH without Ghostty terminfo) =========
 # Comment out if you prefer Ghostty's default TERM
